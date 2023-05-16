@@ -18,5 +18,15 @@
     "email": "ola@gmail.com",
     "password": "2086da550095c6323952b0685515384890797b85a73ea4d6f5121ef5894bb022dcf2b3d3ed41d9ba281a485f1ead0fe96b7a20a7b2d8d2b21b3f5b04e2d3a732.0761e66b015275b3",
     "id": "59458b98"
+  },
+  {
+    "email": "test@tddest.com",
+    "password": "4fe89d10ea7b57cd8d19b66c2c1f3ada2f70d3d1e138ed46a19cb356046945d60b95d68ec28c3c7372e469a09a954b37ece96ffcaf90391f0832b30228d3570e.743f86c9bdab6f2b",
+    "id": "f4744a7b"
+  },
+  {
+    "email": "olga@gmail.com",
+    "password": "44cf1bc7caf403bf287bfd67c0bd47b7f15587105ad32ec9ecc800545de2af3f30024b673903fd9e6975741a954cba5516cb64d5cbe0d2ea3f0830b505969361.9d29199f87bf7228",
+    "id": "00cf3bfc"
   }
 ]
